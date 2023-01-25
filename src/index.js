@@ -1,3 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // your code here
+  querySelector("#new-task-description").addEventListener('click', () => )
 });
+
